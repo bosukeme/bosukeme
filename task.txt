@@ -1,0 +1,5 @@
+name: UKEME WILSON
+email_address: ukeme.wilson@gmail.com
+slack_username: BOSUKEME
+Track: BACK-END
+course(s): PYTHON
